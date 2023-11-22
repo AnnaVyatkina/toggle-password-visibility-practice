@@ -1,2 +1,2 @@
 # toggle-password-visibility-practice
-javascript
+[click here](https://annavyatkina.github.io/toggle-password-visibility-practice/)
