@@ -1,6 +1,8 @@
 body {
     margin: 0;
     background-image: url("dd5168f451400500994fd52e1aa8841c-fotor-202311230216.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
     width: 1260px;
     height: 1000px;
 }
